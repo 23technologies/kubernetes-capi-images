@@ -1,6 +1,6 @@
 {
-    "iso_checksum": "9bc6028870aef3f74f4e16b900008179e78b130e6b0b9a140635434a46aa98b0",
-    "iso_url": "https://releases.ubuntu.com/releases/22.04/ubuntu-22.04.5-live-server-amd64.iso",
+    "iso_checksum": "e240e4b801f7bb68c20d1356b60968ad0c33a41d00d828e74ceb3364a0317be9",
+    "iso_url": "https://releases.ubuntu.com/releases/noble/ubuntu-24.04.1-live-server-amd64.iso",
     "kubernetes_deb_version": "1.32.0-1.1",
     "kubernetes_semver": "v1.32.0",
     "kubernetes_series": "v1.32",
